@@ -1,2 +1,2 @@
 # phextool.py
-Phex Tool is a Network Analysis tools written in Python 
+Phex Tool is a Network Analysis tools written in Python for reading from and writing to network connections using TCP or UDP
